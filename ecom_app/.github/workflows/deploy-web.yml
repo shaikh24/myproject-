@@ -1,36 +1,35 @@
-name: Build & Deploy Flutter Web
+name: Deploy Flutter Web to Render
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ecom-app   
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
+          flutter-version: "3.22.0"
 
-      - name: Flutter version
-        run: flutter --version
-
-      - name: Get packages
+      - name: Install dependencies
         run: flutter pub get
 
-      - name: Ensure platforms (web)
-        run: flutter create . --platforms=web
+      - name: Build Flutter Web
+        run: flutter build web --release
 
-      - name: Build web
-        run: flutter build web --release --web-renderer html --base-href /ecom_app/
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload build folder
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build/web
-          force_orphan: true
+          name: web
+          path: ecom-app/build/web   

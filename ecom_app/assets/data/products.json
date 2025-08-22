@@ -1,0 +1,425 @@
+[
+  {
+    "id": "p1",
+    "title": "Sample Product 1",
+    "image": "assets/images/placeholder.png",
+    "price": 5099,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 21,
+    "stock": 11,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p2",
+    "title": "Sample Product 2",
+    "image": "assets/images/placeholder.png",
+    "price": 5199,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 22,
+    "stock": 12,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p3",
+    "title": "Sample Product 3",
+    "image": "assets/images/placeholder.png",
+    "price": 5299,
+    "salePrice": 4839,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 23,
+    "stock": 13,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p4",
+    "title": "Sample Product 4",
+    "image": "assets/images/placeholder.png",
+    "price": 5399,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 24,
+    "stock": 14,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p5",
+    "title": "Sample Product 5",
+    "image": "assets/images/placeholder.png",
+    "price": 5499,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 25,
+    "stock": 15,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p6",
+    "title": "Sample Product 6",
+    "image": "assets/images/placeholder.png",
+    "price": 5599,
+    "salePrice": 5079,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 26,
+    "stock": 16,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p7",
+    "title": "Sample Product 7",
+    "image": "assets/images/placeholder.png",
+    "price": 5699,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 27,
+    "stock": 17,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p8",
+    "title": "Sample Product 8",
+    "image": "assets/images/placeholder.png",
+    "price": 5799,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 28,
+    "stock": 18,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p9",
+    "title": "Sample Product 9",
+    "image": "assets/images/placeholder.png",
+    "price": 5899,
+    "salePrice": 5319,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 29,
+    "stock": 19,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p10",
+    "title": "Sample Product 10",
+    "image": "assets/images/placeholder.png",
+    "price": 5999,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 30,
+    "stock": 20,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p11",
+    "title": "Sample Product 11",
+    "image": "assets/images/placeholder.png",
+    "price": 6099,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 31,
+    "stock": 21,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p12",
+    "title": "Sample Product 12",
+    "image": "assets/images/placeholder.png",
+    "price": 6199,
+    "salePrice": 5559,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 32,
+    "stock": 22,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p13",
+    "title": "Sample Product 13",
+    "image": "assets/images/placeholder.png",
+    "price": 6299,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 33,
+    "stock": 23,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p14",
+    "title": "Sample Product 14",
+    "image": "assets/images/placeholder.png",
+    "price": 6399,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 34,
+    "stock": 24,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p15",
+    "title": "Sample Product 15",
+    "image": "assets/images/placeholder.png",
+    "price": 6499,
+    "salePrice": 5799,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 35,
+    "stock": 25,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p16",
+    "title": "Sample Product 16",
+    "image": "assets/images/placeholder.png",
+    "price": 6599,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 36,
+    "stock": 26,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  },
+  {
+    "id": "p17",
+    "title": "Sample Product 17",
+    "image": "assets/images/placeholder.png",
+    "price": 6699,
+    "salePrice": null,
+    "currency": "PKR",
+    "categoryId": "women",
+    "subcategoryId": "women_dresses",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 37,
+    "stock": 27,
+    "sizes": [
+      "36",
+      "38",
+      "40"
+    ],
+    "colors": [
+      "Green",
+      "Yellow"
+    ]
+  },
+  {
+    "id": "p18",
+    "title": "Sample Product 18",
+    "image": "assets/images/placeholder.png",
+    "price": 6799,
+    "salePrice": 6039,
+    "currency": "PKR",
+    "categoryId": "men",
+    "subcategoryId": "men_shoes",
+    "brand": "BrandX",
+    "rating": 4.2,
+    "ratingsCount": 38,
+    "stock": 28,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Black",
+      "Blue",
+      "Red"
+    ]
+  }
+]

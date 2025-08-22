@@ -1,0 +1,44 @@
+[
+  {
+    "id": "men_shoes",
+    "categoryId": "men",
+    "name": "Shoes",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "men_shirts",
+    "categoryId": "men",
+    "name": "Shirts",
+    "active": true,
+    "order": 2
+  },
+  {
+    "id": "women_dresses",
+    "categoryId": "women",
+    "name": "Dresses",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "women_bags",
+    "categoryId": "women",
+    "name": "Handbags",
+    "active": true,
+    "order": 2
+  },
+  {
+    "id": "kids_toys",
+    "categoryId": "kids",
+    "name": "Toys",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "home_kitchen",
+    "categoryId": "home",
+    "name": "Kitchen",
+    "active": true,
+    "order": 1
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "men",
+    "name": "Men",
+    "icon": "man",
+    "active": true,
+    "order": 1
+  },
+  {
+    "id": "women",
+    "name": "Women",
+    "icon": "woman",
+    "active": true,
+    "order": 2
+  },
+  {
+    "id": "kids",
+    "name": "Kids",
+    "icon": "child_care",
+    "active": true,
+    "order": 3
+  },
+  {
+    "id": "home",
+    "name": "Home",
+    "icon": "home",
+    "active": true,
+    "order": 4
+  }
+]

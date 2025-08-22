@@ -1,0 +1,32 @@
+name: ecom_app
+description: A minimal Flutter e-commerce starter (categories, subcategories, products, cart, wishlist) with optional Firebase auth.
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  intl: ^0.19.0
+  shared_preferences: ^2.2.3
+  # Firebase deps are optional; app runs without them.
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.4.4
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/categories.json
+    - assets/data/subcategories.json
+    - assets/data/products.json
+    - assets/images/placeholder.png

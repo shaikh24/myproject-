@@ -3,7 +3,7 @@ name: Flutter Web Build
 on:
   push:
     branches:
-      - main   # jab bhi main branch par push hoga tab ye chalega
+      - main
 
 jobs:
   build:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.22.0'   # apna Flutter version yaha daalna
+          flutter-version: '3.22.0'
 
       - name: Install dependencies
         run: flutter pub get
